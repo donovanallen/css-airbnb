@@ -1,3 +1,49 @@
-h1 {
-  color: salmon;
+h2 {
+  color: gray;
+  font-family: helvetica, sans-serif;
+  text-align: center;
+  font-weight: 500;
+}
+
+/*#pics {
+  height: 200px;
+  width: 200px;
+  display: inline;
+  border: 2px solid red;
+}*/
+
+img {
+  height: 200px;
+  width: 200px;
+  padding: 5px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*#pic-lineup {
+align-items: center;
+}*/
+
+button {
+  text-align: center;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+p {
+  font-family: helvetica, sans-serif;
+  color: gray;
+  text-align: center;
+  font-size: 12px;
+  float: none;
+}
+
+html {
+  width: 100%;
+  background-color: #ECF0EC;
 }
