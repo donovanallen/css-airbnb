@@ -3,6 +3,7 @@ h2 {
   font-family: helvetica, sans-serif;
   text-align: center;
   font-weight: 500;
+  margin: 0px auto;
 }
 
 /*#pics {
@@ -32,7 +33,10 @@ button {
   text-align: center;
   width: 200px;
   height: 30px;
-  border-radius: 5px;
+  border-radius: 2px;
+  border: 1px solid lightgray;
+  background-color: #FFFFFF;
+
 }
 
 p {
